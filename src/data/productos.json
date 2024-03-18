@@ -1,0 +1,100 @@
+[
+    {
+        "img": "https://i.postimg.cc/FdHLYGjk/camisa.png",
+        "titulo": "Camisa Escocesa",
+        "sexo": "Hombre",
+        "precio": 90,
+        "descuento": 35,
+        "id"   : 1 
+    },
+    {
+        "img": "https://i.postimg.cc/jwMycBsh/polera_polo.png",
+        "titulo": "Polera Polo",
+        "sexo": "Hombre",
+        "precio": 35,
+        "descuento": 22,
+        "id"   : 2 
+    },
+    {
+        "img": "https://i.postimg.cc/CdKG5MNr/polera_urbana.png",
+        "titulo": "Polera Urbana",
+        "sexo": "Hombre",
+        "precio": 66,
+        "descuento": 44,
+        "id"   : 3 
+    },
+    {
+        "img": "https://i.postimg.cc/06dYMbFF/chaleco.png",
+        "titulo": "Chaleco Blanco",
+        "sexo": "Mujer",
+        "precio": 70,
+        "descuento": 50,
+        "id"   : 4 
+    },
+
+    {
+        "img": "https://i.postimg.cc/HjPQyGvY/chaqueta_blazer.png",
+        "titulo": "Blazer",
+        "sexo": "Mujer",
+        "precio": 42,
+        "descuento": 15,
+        "id"   : 5 
+    },
+    {
+        "img": "https://i.postimg.cc/LncLxtMG/poncho.png",
+        "titulo": "Poncho",
+        "sexo": "Mujer",
+        "precio": 20,
+        "descuento": 15,
+        "id"   : 6 
+    },
+    {
+        "img": "https://i.postimg.cc/v1M9sGTz/chaqueta.png",
+        "titulo": "Chaqueta Cuero",
+        "sexo": "Hombre / Mujer",
+        "precio": 80,
+        "descuento": 35,
+        "id"   : 7 
+    },
+    {
+        "img": "https://i.postimg.cc/njFvvntz/pantalon_terno.png",
+        "titulo": "Pantalon Terno",
+        "sexo": "Hombre",
+        "precio": 44,
+        "descuento": 22,
+        "id"   : 8 
+    },
+
+    {
+        "img": "https://i.postimg.cc/dZDrxn3c/pantalon.png",
+        "titulo": "Pantalon Jeans Negro",
+        "sexo": "Hombre",
+        "precio": 100,
+        "descuento": 44,
+        "id"   : 9 
+    },
+    {
+        "img": "https://i.postimg.cc/QH9cg6vp/falda.png",
+        "titulo": "Falda",
+        "sexo": "Mujer",
+        "precio": 200,
+        "descuento": 50,
+        "id"   : 10 
+    },
+    {
+        "img": "https://i.postimg.cc/tsFPwsqJ/vestido.png",
+        "titulo": "Vestido",
+        "sexo": "Mujer",
+        "precio": 55,
+        "descuento": 15,
+        "id"   : 11 
+    },
+    {
+        "img": "https://i.postimg.cc/06fS5hJq/vestido_largo.png",
+        "titulo": "Vestido Largo",
+        "sexo": "Mujer",
+        "precio": 40,
+        "descuento": 15,
+        "id"   : 12 
+    }
+]
